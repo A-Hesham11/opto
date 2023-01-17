@@ -1,0 +1,466 @@
+[
+    {
+        "title": "1. If light of a certain energy (E) is incident on a semiconductor with energy gap Eg. If E > Eg.then ……",
+        "answer_1": "light is absorbed",
+        "answer_2": "here is no absorption",
+        "answer_3": "light is reflected ",
+        "answer_4": "None of the mentioned",
+        "right_answer": "light is absorbed"
+    },
+    {
+        "title": "2. Light passes through the …………… Material, but it scattered in random directions.",
+        "answer_1": "Transparent",
+        "answer_2": "Translucent",
+        "answer_3": "Opaque",
+        "answer_4": "None of the mentioned",
+        "right_answer": "Translucent"
+    },
+    {
+        "title": "3. The energy of a single photon can be determined by ………",
+        "answer_1": "E = h / c λ",
+        "answer_2": "E = h λ/ c",
+        "answer_3": "E = h c λ",
+        "answer_4": "E = h c / λ",
+        "right_answer": "E = h c / λ"
+    },
+    {
+        "title": "4. The photon flux (Γph)that are incident on sample of material at the surface is given by ……",
+        "answer_1": "I/hv",
+        "answer_2": "I/λv",
+        "answer_3": "Ih/v",
+        "answer_4": "I/hλ",
+        "right_answer": "I/hv"
+    },
+    {
+        "title": "5. the intensity of the radiation I at some depth x within the semiconductor is given by ……",
+        "answer_1": "I(x) = 𝑒−𝛼x",
+        "answer_2": "I(x) = Io𝑒−𝛼𝑥",
+        "answer_3": "I(x) = -αx",
+        "answer_4": "I(x) = Io𝑒𝛼x",
+        "right_answer": "I(x) = Io𝑒−𝛼𝑥"
+    },
+    {
+        "title": "7. A sample of GaAs is 0.35 µm thick. It is illuminated with light source of energy 2 eV. Determine the percentage of light absorbed through the sample. Take absorption coefficients of GaAs a, for that wavelength, to be 5 ×10^5 cm−1. [1 eV = 1.6 × 10^−19J, h = 6.626*10^−34j.sec]",
+        "answer_1": "85%",
+        "answer_2": "92% ",
+        "answer_3": "99%",
+        "answer_4": "90%",
+        "right_answer": "99%"
+    },
+    {
+        "title": "8. A sample of Si is 0.35 µm thick. It is illuminated with light source of energy 2 eV. Determinethe corresponding wavelength. Take absorption coefficients of GaAs a, for that wavelength, to be8 × 10^4 cm−1. [1 eV = 1.6× 10^−19J, h = 6.626*10^−34j.sec]",
+        "answer_1": "0.5 μm",
+        "answer_2": " 0.17 μm",
+        "answer_3": " 0.2",
+        "answer_4": "0.62 μm",
+        "right_answer": "0.62 μm"
+    },
+    {
+        "title": "9. A sample of Si is 0.35 µm thick. It is illuminated with light source of energy 2 eV. Determine the percentage of light absorbed through the sample. Take absorption coefficients of GaAs a, for that wavelength, to be 8 × 10^4 cm−1. [1 eV= 1.6× 10^−19J, h = 6.626*10^−34j.sec]",
+        "answer_1": "93%",
+        "answer_2": "96%",
+        "answer_3": "98% ",
+        "answer_4": "99%",
+        "right_answer": "93%"
+    },
+    {
+        "title": "10. Calculate the thickness of a semiconductor slab that will absorb 90 percent of the incident photon energy for absorption coefficient of 10^4cm−1. [1 eV = 1.6× 10^−19J, h = 6.626*10^−34j.sec]",
+        "answer_1": "4 μm",
+        "answer_2": "2.3 μm",
+        "answer_3": "1 μm",
+        "answer_4": "0.5 μm",
+        "right_answer": "2.3 μm"
+    },
+    {
+        "title": "11. A sample of GaAs is 1.2 μm thick. The sample is illuminated with a light source that generates photons with energies of hν 1.65 eV with absorption coefficient of 9 × 10^3cm−1. Determine the corresponding wavelength.[1 eV = 1.6× 10^−19J, h = 6.626*10^−34j.sec]",
+        "answer_1": "0.33 μm",
+        "answer_2": "0.4 μm",
+        "answer_3": "0.75 μm",
+        "answer_4": "1.1 μm",
+        "right_answer": "0.75 μm"
+    },
+    {
+        "title": "12. A sample of GaAs is 1.2 μm thick. The sample is illuminated with a light source that generates photons with energies of hν 1.65 eV with absorption coefficient of 9 × 10^3cm−1. Determine the fraction of energy that is absorbed in the material.[1 eV = 1.6× 10^−19J, h = 6.626*10^−34j.sec]",
+        "answer_1": "91% ",
+        "answer_2": "80% ",
+        "answer_3": "76%",
+        "answer_4": "66%",
+        "right_answer": "66%"
+    },
+    {
+        "title": "13. Consider a silicon semiconductor that is illuminated with photons with energies hν = 1.40 eV. Determine the corresponding wavelength. [1 eV = 1.6× 10−19J, h = 6.626*10−34j.sec]",
+        "answer_1": "0.13 μm",
+        "answer_2": "0.45 μm ",
+        "answer_3": "0.75 μm",
+        "answer_4": "0.88 μm",
+        "right_answer": "0.88 μm"
+    },
+    {
+        "title": "14. Consider a silicon semiconductor that is illuminated with photons with energies hν = 1.40 eV. If the absorption coefficient is 10^4cm−1. Determine the thickness of the material such that 10 percent of the energy is transmitted through the material. [1 eV = 1.6× 10^−19J, h = 6.626*10^−34j.sec]",
+        "answer_1": "2.3 μm ",
+        "answer_2": "5.4 μm",
+        "answer_3": "6.5 μm",
+        "answer_4": "8.3 μm",
+        "right_answer": "2.3 μm "
+    },
+    {
+        "title": "5. ………… is the process of generating photon emission when the excitation of carriers is caused by an applied electric field",
+        "answer_1": "Electroluminescence",
+        "answer_2": "Photoluminescence",
+        "answer_3": "Cathodoluminescence",
+        "answer_4": "Radioluminescence",
+        "right_answer": "Electroluminescence"
+    },
+    {
+        "title": "16 ………… is the process of generating photon emission when the excitation of carriers is caused by an incident light.",
+        "answer_1": "Electroluminescence",
+        "answer_2": "Photoluminescence",
+        "answer_3": "Cathodoluminescence",
+        "answer_4": "Radioluminescence",
+        "right_answer": "Photoluminescence"
+    },
+    {
+        "title": "17. In a radiative recombination process, the released energy is emitted in the form of phonon",
+        "answer_1": "True",
+        "answer_2": "FALSE",
+        "answer_3": "",
+        "answer_4": "",
+        "right_answer": "FALSE"
+    },
+    {
+        "title": "18. Only radiative recombination processes are useful to the function of semiconductor lasers and LEDs",
+        "answer_1": "True",
+        "answer_2": "FALSE",
+        "answer_3": "",
+        "answer_4": "",
+        "right_answer": "True"
+    },
+    {
+        "title": "19. InAs, GaAs are examples of direct bandgap materials",
+        "answer_1": "True",
+        "answer_2": "FALSE",
+        "answer_3": "",
+        "answer_4": "",
+        "right_answer": "True"
+    },
+    {
+        "title": "20. ………………...are examples of direct bandgap materials",
+        "answer_1": "InAs, GaAs",
+        "answer_2": "Al, GE",
+        "answer_3": "Si, Ge",
+        "answer_4": "Cu, GA",
+        "right_answer": "InAs, GaAs"
+    },
+    {
+        "title": "21. ……………… are examples of Indirect bandgap materials",
+        "answer_1": "InAs, GaAs",
+        "answer_2": "Al, GE",
+        "answer_3": "Si, Ge",
+        "answer_4": "Cu, GA",
+        "right_answer": "Si, Ge"
+    },
+    {
+        "title": "22. LEDs also operates only in forward bias condition.",
+        "answer_1": "True",
+        "answer_2": "FALSE",
+        "answer_3": "",
+        "answer_4": "",
+        "right_answer": "True"
+    },
+    {
+        "title": "23. The amount of output light emitted by the LED is inversly proportional to the amount of forward current flowing through the LED.",
+        "answer_1": "True",
+        "answer_2": "FALSE",
+        "answer_3": "",
+        "answer_4": "",
+        "right_answer": "FALSE"
+    },
+    {
+        "title": "24. In a LED, the emission process is …………",
+        "answer_1": "Spontaneous",
+        "answer_2": "Stimulated",
+        "answer_3": "Artificia",
+        "answer_4": "None of the mentioned",
+        "right_answer": "Spontaneous"
+    },
+    {
+        "title": "25. If you wish to make a light emitting diode, you will make it with",
+        "answer_1": "Si",
+        "answer_2": "Ge ",
+        "answer_3": "GaAs",
+        "answer_4": "None of the mentioned",
+        "right_answer": "GaAs"
+    },
+    {
+        "title": "26. Which of the following materials can be used to produce UV LED?",
+        "answer_1": "indium Gallium Nitride (InGaN)",
+        "answer_2": "Aluminum Gallium Arsenide(Alx Ga1-x Ar)",
+        "answer_3": "Aluminum Gallium Indium Phosphide (AlGaP ) ",
+        "answer_4": "Gallium Phosphide (GaP)",
+        "right_answer": "indium Gallium Nitride (InGaN)"
+    },
+    {
+        "title": "27. Which of the following is not a characteristic of LED?",
+        "answer_1": "Fast action",
+        "answer_2": "High Warm-up time",
+        "answer_3": "Low operational voltage",
+        "answer_4": "Long life",
+        "right_answer": "High Warm-up time"
+    },
+    {
+        "title": "28. In stimulated emission process, the electrons in the excited state can stay only for a short period, known as the lifetime of excited electrons.",
+        "answer_1": "True",
+        "answer_2": "FALSE",
+        "answer_3": "",
+        "answer_4": "",
+        "right_answer": "FALSE"
+    },
+    {
+        "title": "29. The spontaneous process is an …………… process, while the stimulated is a …………… process",
+        "answer_1": "Natural, Artificial ",
+        "answer_2": "Artificial, Natural",
+        "answer_3": "Natural , Natura",
+        "answer_4": "Artificial, Artificial",
+        "right_answer": "Natural, Artificial "
+    },
+    {
+        "title": "30. The photons emitted in spontaneous emission process constitute ordinary coherent light",
+        "answer_1": "True",
+        "answer_2": "FALSE",
+        "answer_3": "",
+        "answer_4": "",
+        "right_answer": "FALSE"
+    },
+    {
+        "title": "31. The stimulated emission process is ……… compared to the spontaneous emission process",
+        "answer_1": "very slow",
+        "answer_2": "similar",
+        "answer_3": "very fast",
+        "answer_4": "None of the mentioned",
+        "right_answer": "similar"
+    },
+    {
+        "title": "32. All the emitted photons in stimulated emission have the same energy, same frequency and are in phase.",
+        "answer_1": "True",
+        "answer_2": "FALSE",
+        "answer_3": "",
+        "answer_4": "",
+        "right_answer": "True"
+    },
+    {
+        "title": "33. Under normal conditions (thermal equilibrium), the number of electrons in the lower energy state is always ……………... than the number of electrons in the higher energy state",
+        "answer_1": "faster",
+        "answer_2": "slower",
+        "answer_3": "Lower",
+        "answer_4": "greater",
+        "right_answer": "greater"
+    },
+    {
+        "title": "34. Population inversion cannot be achieved in a two energy level system.",
+        "answer_1": "True",
+        "answer_2": "FALSE",
+        "answer_3": "",
+        "answer_4": "",
+        "right_answer": "True"
+    },
+    {
+        "title": "35. ………………….. is the part of a laser system that provides energy to the active medium",
+        "answer_1": "Laser Medium",
+        "answer_2": "Pump Source",
+        "answer_3": "Optical Resonator",
+        "answer_4": "optical cavity",
+        "right_answer": "Pump Source"
+    },
+    {
+        "title": "36. The population inversion in the 4-levels laser systems is achieved between energy states ………",
+        "answer_1": "E1 and E2 ",
+        "answer_2": "E3 and E1",
+        "answer_3": "E3 and E4",
+        "answer_4": "E3 and E2",
+        "right_answer": "E3 and E2"
+    },
+    {
+        "title": "37. In the 4-levels laser systemsThe lifetime of electrons in the energy state E3 is very large as compared to E4 and E2.",
+        "answer_1": "True",
+        "answer_2": "FALSE",
+        "answer_3": "",
+        "answer_4": "",
+        "right_answer": "True"
+    },
+    {
+        "title": "38. Fabry-Perot laser produces a relatively narrow spectral width.",
+        "answer_1": "True",
+        "answer_2": "FALSE",
+        "answer_3": "",
+        "answer_4": "",
+        "right_answer": "FALSE"
+    },
+    {
+        "title": "40. For resonance in the Fabry-Perot laser, the length of the cavity L must be …………",
+        "answer_1": "L = (N/3) (λ/2) ",
+        "answer_2": "L = N (λ/3 ",
+        "answer_3": "L = N (λ/2) ",
+        "answer_4": "L = N (λ/5)",
+        "right_answer": "L = N (λ/2) "
+    },
+    {
+        "title": "41. If λ is the wavelength of the incident radiation, then it can be 'detected' if ……",
+        "answer_1": "λ ≤ h c / ∆E ",
+        "answer_2": "λ ≤ h / ∆E",
+        "answer_3": "λ ≥ h c / ∆E ",
+        "answer_4": "λ ≤ ∆E / h c",
+        "right_answer": "λ ≤ h c / ∆E "
+    },
+    {
+        "title": "42. Photodetectors are usually wavelength specific",
+        "answer_1": "True",
+        "answer_2": "FALSE",
+        "answer_3": "",
+        "answer_4": "",
+        "right_answer": "True"
+    },
+    {
+        "title": "43. The absorption coefficient determines the working wavelength range of the Photodetector, especially the lower limit",
+        "answer_1": "True",
+        "answer_2": "FALSE",
+        "answer_3": "",
+        "answer_4": "",
+        "right_answer": "True"
+    },
+    {
+        "title": "44. when the radiation arrives the photodetector in the form of pulses the carrier generation and detection should be ……….. the arrival rate of the of the next pulse",
+        "answer_1": "smaler than",
+        "answer_2": "similar",
+        "answer_3": "slower than ",
+        "answer_4": "faster than",
+        "right_answer": "faster than"
+    },
+    {
+        "title": "45. Photodiodes are particularly designed to work in forward bias condition.",
+        "answer_1": "True",
+        "answer_2": "FALSE",
+        "answer_3": "",
+        "answer_4": "",
+        "right_answer": "FALSE"
+    },
+    {
+        "title": "46. Types of photodiode includes …………",
+        "answer_1": "Schottky Diode",
+        "answer_2": "PIN diode",
+        "answer_3": "Avalanche diode ",
+        "answer_4": "All of the mentioned",
+        "right_answer": "All of the mentioned"
+    },
+    {
+        "title": "47. The main features of photodiodes include low noise",
+        "answer_1": "True",
+        "answer_2": "FALSE",
+        "answer_3": "",
+        "answer_4": "",
+        "right_answer": "True"
+    },
+    {
+        "title": "48. The excess carrier concentration is given by δ p = ……………",
+        "answer_1": "e GL TP",
+        "answer_2": "GL tn ",
+        "answer_3": "GL 𝑡p",
+        "answer_4": "μ e GL 𝑡p",
+        "right_answer": "GL 𝑡p"
+    },
+    {
+        "title": "49. The change in conductivity due to the optical excitation in Photoconductor may be given by ………",
+        "answer_1": "∆σ = e δp (μn+μp) ",
+        "answer_2": "∆σ = e (𝜇𝑛𝑛0+𝜇𝑝𝑝0)",
+        "answer_3": " ∆σ = e τp δp (μn+μp) ",
+        "answer_4": "∆σ = e δp (μn)",
+        "right_answer": "∆σ = e δp (μn+μp) "
+    },
+    {
+        "title": "50. The time required for an electron to flow through the photoconductor",
+        "answer_1": "tn= L / μn E",
+        "answer_2": "tn= A / μn E ",
+        "answer_3": "tn= L / μn GL",
+        "answer_4": "tn= δp / μn E",
+        "right_answer": "tn= L / μn E"
+    },
+    {
+        "title": "51. What happens to the photoconductive material when the light strickes on it",
+        "answer_1": "The conductivity of the material decrease",
+        "answer_2": "Nothing important happens",
+        "answer_3": "The conductivity of the material increases",
+        "answer_4": "The conductivity of the material stays the same",
+        "right_answer": "The conductivity of the material increases"
+    },
+    {
+        "title": "52. ……………………….. is drfined as the ratio of the rate at which charge is collected by the contacts to the rate at which charge is generated within the photoconductor",
+        "answer_1": "photocurrent",
+        "answer_2": "photoconductor gain",
+        "answer_3": "photocurrent density ",
+        "answer_4": "photoconductivity",
+        "right_answer": "photoconductor gain"
+    },
+    {
+        "title": "54. Calculate the photoconductor gain (Γph) of an n-type silicon photoconductor with a length L = 100 μm, cross-sectional area A = 10^−7 cm^2, and minority carrier lifetime Ƭ p = 10^−6 s. Let the applied electric field be E = 10 V/cm and the generation rate of excess carriers GL = 10^21 cm^−3 𝑠^−1. Also assume that μn = 1000 cm^2/V-s and μp = 400 cm^2/V-s",
+        "answer_1": "4.33 *10^2 ",
+        "answer_2": "3.1 * 10^2",
+        "answer_3": "2.2 * 10^2",
+        "answer_4": "1.83 * 10^2",
+        "right_answer": "1.83 * 10^2"
+    },
+    {
+        "title": "55. A solar cell is an example of a …………",
+        "answer_1": "photovoltaic devices",
+        "answer_2": "photocurrent devices",
+        "answer_3": "laser devices",
+        "answer_4": "None of the mentioned",
+        "right_answer": "photovoltaic devices"
+    },
+    {
+        "title": "56. solar cell is a photodiode that is unbiased ",
+        "answer_1": "True",
+        "answer_2": "FALSE",
+        "answer_3": "",
+        "answer_4": "",
+        "right_answer": "True"
+    },
+    {
+        "title": "57. A photodiode works on a …………. range of wavelength, while solar cells need to work over a ………… spectral range",
+        "answer_1": "broad, narrow",
+        "answer_2": "narrow, broad ",
+        "answer_3": "wide, limited",
+        "answer_4": "None of the mentioned",
+        "right_answer": "narrow, broad "
+    },
+    {
+        "title": "59. What is the difference between Photodiode and Solar cell?",
+        "answer_1": "no External Bias in Photodiode",
+        "answer_2": "no External Bias in Solar cell",
+        "answer_3": "Larger surface area in photodiode",
+        "answer_4": "No difference",
+        "right_answer": "no External Bias in Solar cell"
+    },
+    {
+        "title": "60. During the collection of e-h pairs, holes are collected by ___",
+        "answer_1": "Front contact",
+        "answer_2": "Back contact",
+        "answer_3": "Si-wafer",
+        "answer_4": "Finger electrodes",
+        "right_answer": "Back contact"
+    },
+    {
+        "title": "61. Consider a Si pn junction solar cell at T = 300 K with the following parameters:Na = 5 * 10^18 cm ^−3 Nd = 10^16 cm^−3 Dn = 25 cm^2/s Dp = 10 cm^2/s Ƭn0 = 5 * 10^−7 s Ƭp0 = 10^−7s Assume a photocurrent density of JL = 15 mA/cm^2is generated in the solar cell. Calculate the open-circuit voltage of the Si pn junction solar cell. [Electron charge e = 1.6 * 10^−19C, The intrinsic carrier concentration of GaAs ni = 1.5 * 10^10 cm^−3, and the thermal voltage Vt = 0.0259 V]",
+        "answer_1": "0.855 V .",
+        "answer_2": "0.514 V . ",
+        "answer_3": "0.321 V ",
+        "answer_4": "0.97 V",
+        "right_answer": "0.514 V ."
+    },
+    {
+        "title": "62. Consider a GaAS pn junction solar cell at T = 300 K with the following parameters:Na = 10^17cm^−3 Nd = 2 * 10^16 cm^−3 Dn = 190 cm^2/s Dp = 10 cm^2/s Ƭn0 = 10^−7 s Ƭp0 = 10^−8 s Assume a photocurrent density of JL = 20 mA/cm2 is generated in the solar cell. Calculate the open-circuit voltage of the GaAS pn junction solar cell. [Electron charge e = 1.6 * 10^-19 C, The intrinsic carrier concentration of GaAs ni = 2.1 * 10^6 cm^-3, and the thermal voltage Vt = 0.0259 V]",
+        "answer_1": "0.225 V",
+        "answer_2": "0.755 V",
+        "answer_3": "0.971 V",
+        "answer_4": "1.23 V",
+        "right_answer": "0.971 V"
+    }
+]
